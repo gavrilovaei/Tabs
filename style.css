@@ -13,7 +13,7 @@
 }
 
 .tab-head__item:hover,
-.tab-head__item:active {
+.tab-head__item.active {
     border-bottom: 1px solid darkblue;
 }
 
